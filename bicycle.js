@@ -13,8 +13,8 @@ bicycle.turn_speed = 0.05;
 
 bicycle.img = new Image();
 bicycle.img_loaded = false;
-bicycle.width = 64;
-bicycle.height = 64;
+bicycle.width = 80;
+bicycle.height = 80;
 bicycle.animation_ratio = 1.5;
 
 
